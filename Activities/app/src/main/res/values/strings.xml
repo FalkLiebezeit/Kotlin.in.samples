@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="tvHauptAusgabeString">Haupt-Activity</string>
+    <string name="buUnterEinsString">Zu Eins</string>
+    <string name="buUnterZweiString">Zu Zwei</string>
+    <string name="tvUnterEinsAusgabeString">Unter-Activity Eins</string>
+    <string name="tvUnterZweiAusgabeString">Unter-Activity Zwei</string>
+    <string name="buZurueckOkString">OK</string>
+    <string name="buZurueckAbbruchString">Abbruch</string>
+    <string name="tvRueckgabeString">Rückgabe</string>
+</resources>

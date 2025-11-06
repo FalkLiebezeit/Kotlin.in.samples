@@ -1,0 +1,56 @@
+package com.liebezeit.activities00
+
+
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.liebezeit.activities00.databinding.ActivityMainBinding
+
+class MainActivity : AppCompatActivity() {
+
+    private lateinit var B: ActivityMainBinding
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        B = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(B.root)
+
+       // setContentView(R.layout.activity_main)
+    }
+
+
+    /*
+    @Deprecated("Deprecated in Java")
+    override fun onActivityResult(requestCode: Int,
+                                  resultCode: Int, data: Intent?) {
+
+        super.onActivityResult(requestCode, resultCode, data)
+
+
+        if (requestCode == 1) {
+            if (resultCode == Activity.RESULT_OK &&
+                data != null) {
+                if (data.hasExtra("zUnterEins")) {
+                    val rueckgabe =
+                        data.getIntExtra("zUnterEins", 0)
+                    B.tvRueckgabe.text = "Rückgabe aus Eins: $rueckgabe"
+                }
+            } else if (resultCode == Activity.RESULT_CANCELED) {
+                B.tvRueckgabe.text = "Keine Rückgabe aus Eins"
+            }
+
+        } else if (requestCode == 2) {
+            if (resultCode == Activity.RESULT_OK &&
+                data != null) {
+                if (data.hasExtra("zUnterZwei")) {
+                    val rueckgabe =
+                        data.getIntExtra("zUnterZwei", 0)
+                    B.tvRueckgabe.text = "Rückgabe aus Zwei: $rueckgabe"
+                }
+            } else if (resultCode == Activity.RESULT_CANCELED) {
+                B.tvRueckgabe.text = "Keine Rückgabe aus Zwei"
+            }
+        }
+    }
+*/
+}

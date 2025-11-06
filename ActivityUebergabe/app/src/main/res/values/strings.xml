@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityUebergabe</string>
+    <string name="tvHauptAusgabeString">Haupt-Activity</string>
+    <string name="buUnterString">Zur Unter-Activity</string>
+    <string name="tvUnterAusgabeString">Unter-Activity</string>
+    <string name="buZurueckString">Zurück zur Haupt-Activity</string>
+</resources>
