@@ -5,11 +5,7 @@
 This is an unofficial fork of samples I found on my journey through the internet. No representation is made that the source code belongs to me, it's simply reproduced here for convenience.
 
 ## Building
-
 You'll need Android Studio Otter | 2025.2.1 and above.
 
-
-## Additional resources
-
-### Guides and tutorials
+## Guides and tutorials
 * [Official book site](https://kotlinlang.org)
