@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.thomaskuenneth.androidbuch.alarmclockdemo2.app-mergeDebugResources-20:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\falkl\\.gradle\\caches\\transforms-3\\c88b00e8e120ede438720652258482d3\\transformed\\appcompat-1.5.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

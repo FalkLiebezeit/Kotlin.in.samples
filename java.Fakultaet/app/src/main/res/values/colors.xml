@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Im Projekt benutzte Farben und ihre Namen. -->
+    <color name="rot">#ffff0000</color>
+    <color name="rotTon">#aaff0000</color>
+    <color name="weiss">#ffffffff</color>
+    <color name="schwarz">#ff000000</color>
+
+    <color name="editGrau">#ffaaaaaa</color>
+    <color name="buttonGrau">#ffcccccc</color>
+</resources>

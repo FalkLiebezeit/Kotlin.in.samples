@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gewichtsrechner</string>
+
+    <!-- Textnamen und Texte des Projekts. -->
+    <string name="Koerpergroesse">Körpergröße in cm</string>
+    <string name="Berechnen">BERECHNEN</string>
+    <string name="Normalgewicht">Normalgewicht in kg</string>
+</resources>

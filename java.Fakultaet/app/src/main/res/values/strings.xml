@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fakultät</string>
+
+    <!-- Textnamen und Texte des Projekts. -->
+    <string name="titel">Fakultät (n!)</string>
+    <string name="infoText">Berechnung der Fakultät (n!) für eine der ganzen Zahlen\n zwischen 1 und 15.
+                n! ist das Produkt der natürlichen Zahlen, die kleiner oder gleich der Zahl n sind.\n
+                z.B. 4! = 1*2*3*4 = 24</string>
+
+    <string name="n">n:</string>
+    <string name="fakultaet">n!</string>
+
+    <string name="fehler">Eingabefehler</string>
+
+    <string name="buttonText">Rechnen</string>
+</resources>

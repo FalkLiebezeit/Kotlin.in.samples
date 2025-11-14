@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AuswahlMehrere</string>
+    <string name="rbRotString">Rot</string>
+    <string name="rbGruenString">Grün</string>
+    <string name="blauString">Blau</string>
+    <string name="buFarbeAusgabeString">RB: Ausgabe</string>
+    <string name="buSpinnerAusgabeString">Sp: Ausgabe</string>
+    <string name="buFarbeSetzenString">RB: Setzen</string>
+    <string name="buSpinnerSetzenString">Sp: Setzen</string>
+    <string-array name="spFarbeArray">
+        <item>Rot</item>
+        <item>Grün</item>
+        <item>Blau</item>
+    </string-array>
+</resources>
